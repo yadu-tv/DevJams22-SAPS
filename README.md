@@ -23,7 +23,7 @@ We are making a software, that will help the disable community all over the glob
 ## **Features**
 
 - To toggle between light, dark and low vision(Color Blindness) modes to see the perfect fit.
-- To use already existing technolgy with ML and AI to provide a way for the mute to communicate with ease, even with those that don't know about the 'Indin Sign Language'.
+- To use already existing technolgy with ML and AI to provide a way for the mute to communicate with ease, even with those that don't know about the 'Indian Sign Language'.
 - To provide TTS (Text to Speech) and STT (Speech to Text) to the mute and deaf, as well as to people with motor impairment.
 - To provide medicare facilities to all our users, such as to track their medical appointments, schedule their regular appointments, pill alert notification, and etc.
 - We took inspiration from Stream deck to make a ISL keyboard.
